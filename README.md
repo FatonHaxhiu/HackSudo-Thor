@@ -1,3 +1,3 @@
-# HackSudo-Thor
+# HackSudo-Thor WalkThrough 
 
-![1 1](https://github.com/FatonHaxhiu/HackSudo-Thor/assets/67721504/7982c08a-a8f9-4d7f-8397-e7cf0b07020a)
+First in order to find the IP Address of the machine we run netdiscover command in our case is 10.0.2.15 
